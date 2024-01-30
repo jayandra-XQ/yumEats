@@ -1,10 +1,10 @@
-import React from 'react'
+import TopNav from './components/TopNav'
 
 const App = () => {
   return (
-    <>
-      
-    </>
+    <div className="App">
+      <TopNav />
+    </div>
   )
 }
 
